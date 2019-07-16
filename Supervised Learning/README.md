@@ -3,4 +3,4 @@
 ## Introduction 
 * This project applies Supervised learning algorithms to analyze different datasets
 
-## Projected Completion: 07/13/2019
+## Projected Completion: 07/16/2019
