@@ -10,4 +10,4 @@
   * Supervised Learning: Projects applying supervised learning algorithms
   * Unsupervised Learning: Projects applying unsupervised learning algorithms
   
-## Projected Completion: 07/16/2019 
+## Projected Completion: 08/16/2019 
